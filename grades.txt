@@ -1,0 +1,185 @@
+Num_Estudiante	Calificacion	Asignatura
+10001	6.57	Algebra y Geometria
+10001	6.45	Matematica Discreta
+10001	4.35	Perifericos e Interfaces
+10001	4.3	Metodos Estadisticos
+10001	1.81	Fundamentos de Sistemas Inteligentes
+10001	7.08	Algoritmos y Programacion
+10001	7.41	Bases de Datos II
+10001	5.66	Fundamentos de Programacion I
+10001	8.64	Fundamentos de Computadores
+10001	6.18	Ingenieria del Software I
+10001	4.72	Redes de Computadores
+10001	7.36	Metodos Numericos
+10001	7.79	Administracion de SO
+10002	5.44	Algebra y Geometria
+10002	5.82	Perifericos e Interfaces
+10002	8.7	Fundamentos de Sistemas Inteligentes
+10002	8.56	Metodos Estadisticos
+10002	1.44	Algoritmos y Programacion
+10002	2.57	Fundamentos de Programacion I
+10003	6.09	Matematica Discreta
+10003	9.26	Perifericos e Interfaces
+10003	7.65	Metodos Estadisticos
+10003	6.48	Algoritmos y Programacion
+10003	5.89	Bases de Datos II
+10003	7.25	Fundamentos de Programacion I
+10003	6.3	Algebra y Geometria
+10004	7.95	Algebra y Geometria
+10004	7.41	Matematica Discreta
+10004	5.78	Metodos Estadisticos
+10004	6.17	Perifericos e Interfaces
+10004	4.78	Algoritmos y Programacion
+10004	4.88	Bases de Datos II
+10004	7.64	Fundamentos de Sistemas Inteligentes
+10004	9.65	Fundamentos de Programacion I
+10004	6.58	Ingenieria del Software I
+10004	6.44	Fundamentos de Computadores
+10004	5.57	Redes de Computadores
+10004	6.11	Administracion de SO
+10004	5.16	Metodos Numericos
+10005	6.67	Perifericos e Interfaces
+10005	7.36	Metodos Estadisticos
+10005	5.24	Matematica Discreta
+10005	5.55	Algebra y Geometria
+10005	4.91	Algoritmos y Programacion
+10005	4.23	Redes de Computadores
+10005	6.38	Metodos Numericos
+10005	5.44	Fundamentos de Sistemas Inteligentes
+10005	6.03	Administracion de SO
+10005	6.99	Bases de Datos II
+10006	6.73	Algebra y Geometria
+10006	5.72	Matematica Discreta
+10006	6.9	Metodos Estadisticos
+10006	4.99	Algoritmos y Programacion
+10006	6.71	Fundamentos de Programacion I
+10006	6.18	Fundamentos de Computadores
+10006	6.18	Ingenieria del Software I
+10006	5.41	Metodos Numericos
+10006	4.84	Administracion de SO
+10006	5.22	Redes de Computadores
+10006	5.79	Perifericos e Interfaces
+10006	6.45	Fundamentos de Sistemas Inteligentes
+10007	5.63	Metodos Estadisticos
+10007	4.7	Fundamentos de Sistemas Inteligentes
+10007	7.1	Matematica Discreta
+10007	5.98	Perifericos e Interfaces
+10007	5.68	Algebra y Geometria
+10007	5.96	Ingenieria del Software I
+10007	5.4	Bases de Datos II
+10007	5.55	Fundamentos de Programacion I
+10007	5.58	Redes de Computadores
+10007	5.9	Algoritmos y Programacion
+10008	6.32	Algebra y Geometria
+10008	4.64	Matematica Discreta
+10008	5.34	Perifericos e Interfaces
+10009	6.23	Algebra y Geometria
+10009	5.15	Matematica Discreta
+10009	4.61	Perifericos e Interfaces
+10009	0.0	Metodos Estadisticos
+10009	5.52	Fundamentos de Sistemas Inteligentes
+10009	5.62	Algoritmos y Programacion
+10009	5.81	Bases de Datos II
+10009	5.49	Fundamentos de Programacion I
+10009	6.66	Fundamentos de Computadores
+10009	5.59	Ingenieria del Software I
+10009	4.99	Redes de Computadores
+10009	6.64	Metodos Numericos
+10009	6.05	Administracion de SO
+10010	6.42	Redes de Computadores
+10010	5.76	Metodos Numericos
+10010	4.73	Algebra y Geometria
+10010	4.53	Matematica Discreta
+10010	5.74	Metodos Estadisticos
+10010	6.12	Fundamentos de Programacion I
+10011	5.39	Algebra y Geometria
+10011	5.11	Matematica Discreta
+10011	5.67	Perifericos e Interfaces
+10011	5.84	Metodos Estadisticos
+10011	5.23	Fundamentos de Sistemas Inteligentes
+10011	5.16	Algoritmos y Programacion
+10011	4.64	Bases de Datos II
+10012	5.0	Fundamentos de Programacion I
+10012	5.21	Matematica Discreta
+10012	5.69	Metodos Estadisticos
+10012	5.87	Fundamentos de Sistemas Inteligentes
+10012	5.04	Algebra y Geometria
+10012	5.33	Perifericos e Interfaces
+10012	6.27	Algoritmos y Programacion
+10012	5.63	Administracion de SO
+10012	5.65	Metodos Numericos
+10012	5.34	Redes de Computadores
+10013	6.22	Algebra y Geometria
+10013	8.00	Matematica Discreta
+10013	3.13	Perifericos e Interfaces
+10013	6.91	Metodos Estadisticos
+10013	5.14	Fundamentos de Sistemas Inteligentes
+10013	4.21	Algoritmos y Programacion
+10013	0.16	Bases de Datos II
+10013	0.00	Fundamentos de Programacion I
+10013	8.66	Fundamentos de Computadores
+10013	5.00	Ingenieria del Software I
+10013	6.39	Redes de Computadores
+10013	2.40	Metodos Numericos
+10013	4.60	Administracion de SO
+10014	9.50	Perifericos e Interfaces
+10014	6.41	Fundamentos de Sistemas Inteligentes
+10014	6.53	Algoritmos y Programacion
+10014	7.38	Metodos Estadisticos
+10014	5.47	Algebra y Geometria
+10014	0.00	Matematica Discreta
+10014	5.38	Fundamentos de Programacion I
+10014	6.47	Redes de Computadores
+10014	9.08	Fundamentos de Computadores
+10015	6.23	Algebra y Geometria
+10016	6.20	Algebra y Geometria
+10016	1.28	Matematica Discreta
+10016	5.37	Perifericos e Interfaces
+10016	5.04	Metodos Estadisticos
+10016	6.03	Fundamentos de Sistemas Inteligentes
+10017	7.81	Perifericos e Interfaces
+10017	3.18	Metodos Estadisticos
+10017	5.58	Fundamentos de Sistemas Inteligentes
+10017	4.73	Algoritmos y Programacion
+10017	6.52	Bases de Datos II
+10017	4.37	Fundamentos de Programacion I
+10017	0.98	Fundamentos de Computadores
+10017	4.01	Ingenieria del Software I
+10017	0.90	Redes de Computadores
+10017	5.58	Metodos Numericos
+10018	0.15	Algebra y Geometria
+10018	6.47	Matematica Discreta
+10018	3.68	Metodos Estadisticos
+10018	4.11	Fundamentos de Sistemas Inteligentes
+10018	0.00	Perifericos e Interfaces
+10018	6.76	Algoritmos y Programacion
+10018	9.50	Ingenieria del Software I
+10018	6.51	Fundamentos de Programacion I
+10018	5.95	Redes de Computadores
+10018	5.00	Fundamentos de Computadores
+10018	5.00	Metodos Numericos
+10018	3.55	Administracion de SO
+10019	0.72	Fundamentos de Programacion I
+10019	9.16	Matematica Discreta
+10019	6.83	Metodos Estadisticos
+10019	4.64	Fundamentos de Sistemas Inteligentes
+10020	0.00	Algebra y Geometria
+10020	3.65	Algoritmos y Programacion
+10020	7.07	Fundamentos de Sistemas Inteligentes
+10020	5.55	Metodos Estadisticos
+10020	0.00	Perifericos e Interfaces
+10021	5.81	Matematica Discreta
+10021	6.90	Metodos Estadisticos
+10021	1.02	Perifericos e Interfaces
+10021	5.97	Algebra y Geometria
+10021	9.30	Algoritmos y Programacion
+10021	5.03	Fundamentos de Sistemas Inteligentes
+10021	3.66	Bases de Datos II
+10021	5.96	Ingenieria del Software I
+10021	0.00	Fundamentos de Programacion I
+10021	5.78	Metodos Numericos
+10021	6.71	Fundamentos de Computadores
+10022	6.52	Metodos Estadisticos
+10022	1.93	Fundamentos de Sistemas Inteligentes
+10022	5.54	Algoritmos y Programacion
+10023	8.73	Matematica Discreta
