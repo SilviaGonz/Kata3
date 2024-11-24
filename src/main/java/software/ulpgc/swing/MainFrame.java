@@ -19,4 +19,8 @@ public class MainFrame extends JFrame {
         histogram = jFreePanelHistogramDisplay;
         return jFreePanelHistogramDisplay;
     }
+
+    public JFreePanelHistogramDisplay getHistogram() {
+        return histogram;
+    }
 }
